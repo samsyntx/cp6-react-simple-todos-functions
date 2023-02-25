@@ -1,0 +1,17 @@
+.list-item-style-eachtodos {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin: 15px 0px 15px 0px;
+}
+
+.delete-button-style {
+  border: 1px solid #ff0b37;
+  background: none;
+  padding: 5px 10px 5px 10px;
+  color: #ff0b37;
+  border-radius: 5px;
+  margin-left: 10px;
+  cursor: pointer;
+}
